@@ -1,2 +1,2 @@
 # PAID-QB-Armyjob
-Army job is only for qbcore
+Army job is only for qbcoee
